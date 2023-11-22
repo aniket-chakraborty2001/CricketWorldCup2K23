@@ -1,0 +1,153 @@
+PlayerName,TeamName,Continent,Type,1,2,3,4,5,6,7,8,9,10,11,TotalRuns,MatchesPlayed,21,22,23,24,25,26,27,28,29,30,31,WicketsTaken,OversBowled,RunsConceded,Economy
+Subhman Gill,India,Asia,Batter,,,16,53,26,9,92,23,51,80,4,354,11,0,0,0,0,0,0,0,0,0,0,0,0,2,11,5.5
+Ishan Kishan,India,Asia,Batter,0,47,,,,,,,,,,47,11,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Rohit Sharma,India,Asia,Batter,0,131,86,48,46,87,4,40,61,47,47,597,11,0,0,0,0,0,0,0,0,1,0,0,1,0.5,7,8.4
+Virat Kohli,India,Asia,Batter,85,55,16,103,95,0,88,101,51,117,54,765,11,0,0,0,0,0,0,0,0,1,0,0,1,3.3,15,4.55
+Shreyas Iyer,India,Asia,Batter,0,25,53,19,33,4,82,77,128,105,4,530,11,0,0,0,0,0,0,0,0,0,0,0,0,,,
+KL Rahul,India,Asia,Batter,97,0,19,34,27,39,21,8,102,39,66,452,11,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Suryakumar Yadav,India,Asia,Batter,,,,,2,49,12,22,2,1,18,106,11,0,0,0,0,0,0,0,0,0,0,0,0,2,17,8.5
+Hardik Pandya,India,Asia,All-Rounder,11,0,0,0,,,,,,,,11,11,1,2,2,0,0,0,0,0,0,0,0,5,16.3,113,6.93
+Rabindra Jadeja,India,Asia,All-Rounder,0,0,0,0,39,8,35,29,0,0,9,120,11,3,0,2,2,0,1,1,5,2,0,0,16,91.3,398,4.36
+Ravichandran Ashwin,India,Asia,All-Rounder,0,,,,,,,,,,,0,11,1,0,0,0,0,0,0,0,0,0,0,1,10,34,3.4
+Shardul Thakur,India,Asia,Bowler,,0,0,0,,,,,,,,0,11,0,1,0,1,0,0,0,0,0,0,0,2,17,102,6
+Mohommad Shami,India,Asia,Bowler,,,,,1,1,2,0,0,0,6,10,11,0,0,0,0,5,4,5,2,0,7,1,24,48.5,257,5.3
+Jasprit Bumrah,India,Asia,Bowler,0,0,0,0,0,16,1,0,0,0,1,18,11,2,4,2,2,1,3,1,0,2,1,2,20,91.5,373,4.08
+Mohommad Siraj,India,Asia,Bowler,0,0,0,0,0,0,,0,0,0,9,9,11,1,0,2,2,1,0,3,1,2,1,1,14,82.3,469,5.7
+Kuldeep Yadav,India,Asia,Bowler,0,0,0,0,0,9,,0,0,0,10,19,11,2,1,2,1,2,2,0,2,2,1,0,15,95.1,424,4.46
+Abdullah Shafique,Pakistan,Asia,Batter,,113,20,64,58,9,68,4,0,,,336,9,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Imam-ul-Haq,Pakistan,Asia,Batter,15,12,36,70,17,12,,,,,,162,9,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Babar Azam,Pakistan,Asia,Batter,5,10,50,18,74,50,9,66,38,,,320,9,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Mohammad Rizwan,Pakistan,Asia,Batter,68,131,49,46,8,31,26,0,36,,,395,9,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Saud Shakeel,Pakistan,Asia,Batter,68,31,6,30,25,52,0,0,29,,,241,9,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Fakhar Zaman,Pakistan,Asia,Batter,12,,,,,,81,126,1,,,220,9,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Iftikhar Ahmed,Pakistan,Asia,Batter,9,22,4,26,40,21,17,0,3,,,142,9,1,0,0,0,0,0,1,1,1,0,0,4,48,262,5.46
+Shadab Khan,Pakistan,Asia,All-Rounder,32,0,2,,40,43,,,4,,,121,9,1,1,0,0,0,0,0,0,0,0,0,2,38,237,6.24
+Mohammad Nawaz,Pakistan,Asia,All-Rounder,39,0,4,14,NaN,24,,,,,,81,9,1,1,0,0,0,0,0,0,0,0,0,2,37.5,223,5.95
+Hasan Ali,Pakistan,Asia,Bowler,0,0,12,8,0,,,0,,,,20,9,2,4,1,0,1,0,0,1,0,0,0,9,51,321,6.29
+Shaheen Afridi,Pakistan,Asia,Bowler,13,0,2,10,3,2,0,0,25,,,55,9,1,1,2,5,1,3,3,0,2,0,0,18,81,481,5.94
+Haris Rauf,Pakistan,Asia,Bowler,16,0,2,0,0,0,0,0,35,,,53,9,3,2,0,3,0,2,2,1,3,0,0,16,79,533,6.75
+Usama Mir,Pakistan,Asia,Bowler,,,,0,0,,0,,,,,0,9,0,0,0,1,0,2,1,0,0,0,0,4,35,248,7.09
+M Wasim Jnr.,Pakistan,Asia,Bowler,,,,,,7,0,0,16,,,23,9,0,0,0,0,0,2,3,3,2,0,0,10,38.1,215,5.64
+Salman Ali Agha,Pakistan,Asia,Bowler,,,,,,,0,0,51,,,51,9,0,0,0,0,0,0,0,0,0,0,0,0,5,46,9.2
+Rahmanullah Gurbaz,Afganistan,Asia,Batter,47,21,80,11,65,0,10,21,25,,,280,9,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Ibrahim Zadran,Afganistan,Asia,Batter,22,22,28,14,87,39,20,129,15,,,376,9,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Rahmat Shah,Afganistan,Asia,Batter,18,16,3,36,77,62,52,30,26,,,320,9,0,0,0,0,0,0,0,0,0,0,0,0,1,12,12
+Hashmatullah Shahidi,Afganistan,Asia,Batter,18,80,14,8,48,58,56,26,2,,,310,9,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Azmatullah Omarzai,Afganistan,Asia,All-Rounder,22,62,19,27,0,73,31,22,97,,,353,9,1,0,0,2,1,1,0,2,0,0,0,7,38,270,7.11
+Mohommad Nabi,Afganistan,Asia,All-Rounder,6,19,9,7,0,0,0,12,2,,,55,9,0,0,0,0,1,0,3,0,2,0,0,6,61.3,254,4.14
+Najibullah Zadran,Afganistan,Asia,Batter,5,2,,,,,,,,,,7,9,0,0,2,0,0,0,0,0,0,0,0,2,,,
+Rashid Khan,Afganistan,Asia,Bowler,9,16,23,8,0,0,0,35,14,,,105,9,0,2,3,1,0,1,0,2,2,0,0,11,86.3,388,4.5
+Mujeeb ur Rahman,Afganistan,Asia,Bowler,1,10,28,4,0,0,0,0,8,,,51,9,0,0,3,1,0,2,1,0,1,0,0,8,81.5,458,5.62
+Naveen-ul-Haq,Afganistan,Asia,Bowler,0,9,5,0,0,0,,0,2,,,16,9,1,0,1,2,2,0,0,2,0,0,0,8,53.4,352,6.59
+Fazallaq Farooqi,Afganistan,Asia,Bowler,0,0,2,0,,0,0,,,,,2,9,1,0,1,0,0,4,0,0,0,0,0,6,40,228,5.7
+Riaz Hasan,Afganistan,Asia,Bowler,,,,,,,,,,,,0,9,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Ikram Alikhil,Afganistan,Asia,Batter,,,58,19,0,0,0,0,12,,,89,9,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Noor Ahmad,Afganistan,Asia,Bowler,,,,,0,,0,0,26,,,26,9,0,0,0,0,3,0,2,0,0,0,0,5,38,182,4.79
+Abdul Rahman,Afganistan,Asia,Bowler,,,,,,,,,,,,0,9,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Dasun Shanaka,Sri Lanka,Asia,All-Rounder,68,12,,,,,,,,,,80,9,0,0,0,0,0,0,0,0,0,0,0,0,11,64,5.82
+Kusal Mendis,Sri Lanka,Asia,Batter,76,122,9,11,11,39,1,19,6,,,294,9,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Kusal Perera,Sri Lanka,Asia,All-Rounder,7,0,78,5,4,,,4,51,,,149,9,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Pathum Nissanka,Sri Lanka,Asia,Bowler,0,51,61,54,77,46,0,41,2,,,332,9,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Dushmantha Chameera,Sri Lanka,Asia,Bowler,,,,,,1,0,4,1,,,6,9,0,0,0,0,0,0,1,0,1,0,0,2,31.2,196,6.28
+Dimuth Karunaratne,Sri Lanka,Asia,Batter,,,2,0,,15,0,,6,,,23,9,0,0,0,0,0,0,0,0,0,0,0,0,12,73,6.08
+Sadeera Samarawickrama,Sri Lanka,Asia,Batter,23,108,8,91,65,36,0,41,1,,,373,9,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Angelo Mathus,Sri Lanka,Asia,All-Rounder,,,,,0,23,12,0,16,,,51,9,0,0,0,0,2,0,0,2,2,0,0,6,22.1,107,4.84
+Charith Asalanka,Sri Lanka,Asia,All-Rounder,79,1,25,44,0,22,1,108,8,,,288,9,0,0,0,0,0,0,0,0,0,0,0,0,1,10,10
+Dhananjaya De Silva,Sri Lanka,Asia,All-Rounder,11,25,7,30,0,14,,34,19,,,140,9,0,0,0,0,0,0,0,0,0,0,0,0,25,174,6.96
+Dushan Hemantha,Sri Lanka,Asia,Bowler,,,,4,,,0,,,,,4,9,0,0,0,0,0,0,0,0,0,0,0,0,16,94,5.88
+Maheesh Theekshana,Sri Lanka,Asia,Bowler,,0,0,0,0,29,12,21,38,,,100,9,0,1,0,1,1,0,0,2,1,0,0,6,71.2,382,5.37
+Dunith Wellalage,Sri Lanka,Asia,Bowler,0,10,2,,,,,,,,,12,9,1,0,1,0,0,0,0,0,0,0,0,2,29.2,196,6.71
+Kasun Rajitha,Sri Lanka,Asia,Bowler,33,,,0,0,5,14,0,,,,52,9,1,0,0,4,2,1,0,0,0,0,0,8,49,336,6.86
+Matheesha Parthirana,Sri Lanka,Asia,Bowler,5,1,,,,,,,,,,6,9,1,1,0,0,0,0,0,0,0,0,0,2,19,185,9.74
+Lahiru Kumara,Sri Lanka,Asia,Bowler,,,4,,0,,,,,,,4,9,0,0,0,0,3,0,0,0,0,0,0,3,11,82,7.45
+Dilshan Madushanka,Sri Lanka,Asia,Bowler,4,0,0,0,0,0,5,0,19,,,28,9,2,2,3,4,0,2,5,3,0,0,0,21,78.2,525,6.71
+Shakib Al Hasan,Bangladesh,Asia,All-Rounder,14,1,40,,1,5,43,82,,,,186,9,3,1,1,0,1,1,0,2,0,0,0,9,62.3,329,5.28
+Litton Kumar Das,Bangladesh,Asia,Batter,13,76,0,66,22,3,45,23,36,,,284,9,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Tanzid Hasan Tamim,Bangladesh,Asia,Bowler,5,1,16,51,12,15,0,9,36,,,145,9,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Najmul Hossain Shanto,Bangladesh,Asia,Batter,59,0,7,8,0,9,4,90,45,,,222,9,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Tawhid Hridoy,Bangladesh,Asia,Batter,0,39,13,16,,,7,15,74,,,164,9,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Mushfiqur Rahim,Bangladesh,Asia,Bowler,2,51,66,38,8,1,5,10,21,,,202,9,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Muhmudullah Riyad,Bangladesh,Asia,Bowler,0,,41,46,111,20,56,22,32,,,328,9,0,0,0,0,0,0,0,0,0,0,0,0,5,33,6.6
+Mehidy Hasan Miraz,Bangladesh,Asia,Bowler,,8,30,3,,35,25,3,29,,,133,9,0,0,0,0,0,0,0,0,0,0,0,0,80,432,5.4
+Nasum Ahmed,Bangladesh,Asia,All-Rounder,,,,14,19,,,,7,,,40,9,0,0,0,0,0,0,0,0,0,0,0,0,24.3,172,7.08
+Shak Mahedi Hasan,Bangladesh,Asia,All-Rounder,57,14,,,11,17,,,2,,,101,9,3,4,0,2,1,2,3,1,0,0,0,16,16,119,7.44
+Taskin Ahmed,Bangladesh,Asia,Bowler,0,15,17,,,11,6,0,0,,,49,9,1,1,0,0,0,2,0,0,1,0,0,5,55,305,5.55
+Mustafizur Rahman,Bangladesh,Asia,Bowler,0,3,4,1,11,20,3,,0,,,42,9,1,0,1,1,0,2,0,0,1,0,0,6,62.3,398,6.39
+Hasan Mahmud,Bangladesh,Asia,Batter,,,,0,15,,,,,,,15,9,0,0,0,0,2,0,0,0,0,0,0,2,14,132,9.43
+Shoriful Islam,Bangladesh,Asia,Batter,0,12,2,7,6,0,1,0,,,,28,9,2,3,0,0,1,2,0,2,0,0,0,10,64.4,409,6.35
+Tanzim Hasan Sakib,Bangladesh,Asia,Batter,,,,,,,,5,,,,5,9,0,0,0,0,0,0,0,3,0,0,0,3,10,80,8
+Temba Bavuma,South Africa,Africa,Batter,8,35,16,,,28,24,11,23,0,,145,10,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Gerald Coetzee,South Africa,Africa,Bowler,0,,22,3,0,10,0,,0,19,,54,10,3,0,1,3,3,2,2,0,4,2,0,20,63.3,396,6.26
+Quinton de Kock,South Africa,Africa,Batter,100,109,20,4,174,24,114,5,41,3,,594,10,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Reeza Hendricks,South Africa,Africa,Bowler,,,,85,12,,,,,,,97,10,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Marco Jansen,South Africa,Africa,Batter,12,26,9,75,1,20,0,14,,0,,157,10,2,2,2,2,2,3,3,1,0,0,0,17,69,450,6.52
+Heinrich Klaasen,South Africa,Africa,Batter,32,29,28,109,90,12,15,1,10,47,,373,10,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Keshav Maharaj,South Africa,Africa,All-Rounder,0,0,40,1,0,7,0,7,0,4,,59,10,2,2,1,1,1,0,4,1,2,1,0,15,89,370,4.16
+Aiden Markram,South Africa,Africa,Batter,106,56,1,42,60,91,6,9,25,10,,406,10,0,0,0,0,0,0,0,0,0,1,0,1,18.3,85,4.64
+David Miller,South Africa,Africa,Batter,39,17,43,5,34,29,53,11,24,101,,356,10,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Lungi Ngidi,South Africa,Africa,Bowler,0,0,7,0,,4,0,0,0,,,11,10,1,1,2,2,0,1,0,1,2,0,0,10,60.3,355,5.89
+Andile Phehlukwayo,South Africa,Africa,Bowler,,,,,,,,,39,,,39,10,0,0,0,0,0,0,0,0,1,0,0,1,7,36,5.14
+Kagiso Rabada,South Africa,Africa,Bowler,0,0,9,0,0,,0,6,0,10,,25,10,2,3,2,1,2,0,1,1,0,1,0,13,72.5,364,5.02
+Tabraiz Shamsi,South Africa,Africa,All-Rounder,,0,,,,4,,4,,1,,9,10,0,2,0,0,0,4,0,1,0,2,0,9,37.5,212,5.65
+Rassie Van der Dussen,South Africa,Africa,Batter,108,26,4,60,1,21,133,13,76,6,,448,10,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Lizaad Williams,South Africa,Africa,Bowler,,,,,0,,,,,,,0,10,0,0,0,0,2,0,0,0,0,0,0,2,8.4,56,6.67
+Jos Buttler,England,Europe,Batter,43,20,9,15,8,10,1,5,27,,,138,9,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Moeen Ali,England,Europe,All-Rounder,11,,,,15,15,42,4,8,,,95,9,0,0,0,0,0,0,0,3,2,0,0,5,42.4,248,5.85
+Gus Atkinson,England,Europe,Bowler,,,,35,,,,2,0,,,37,9,0,0,0,2,0,0,0,0,2,0,0,4,24,146,6.08
+Jonny Bairstow,England,Europe,Batter,33,52,2,10,30,14,0,15,59,,,215,9,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Sam Curran,England,Europe,All-Rounder,14,11,10,,,,,,,,,35,9,1,1,0,0,0,0,0,0,0,0,0,2,17.2,140,8.14
+Liam Livingstone,England,Europe,All-Rounder,20,0,10,,1,27,2,,,,,60,9,0,1,1,0,0,0,1,0,0,0,0,3,29,158,5.45
+Dawid Malan,England,Europe,Batter,14,140,32,6,28,16,50,87,31,,,404,9,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Adil Rashid,England,Europe,All-Rounder,15,11,20,10,2,13,20,1,0,,,92,9,0,1,3,2,0,2,2,3,2,0,0,15,79.4,371,4.67
+Joe Root,England,Europe,Batter,77,82,11,2,3,0,13,28,60,,,276,9,0,0,1,0,0,0,0,0,0,0,0,1,10.1,67,6.63
+Harry Brook,England,Europe,Batter,25,20,66,17,,,,11,30,,,169,9,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Ben Stokes,England,Europe,All-Rounder,,,,5,43,0,64,108,84,,,304,9,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Reece Topley,England,Europe,Bowler,,1,15,0,,,,,,,,16,9,0,4,1,3,0,0,0,0,0,0,0,8,27.4,183,6.68
+David Willey,England,Europe,Bowler,,,,12,14,16,15,6,15,,,78,9,0,0,0,0,2,3,1,2,3,0,0,11,51,259,5.08
+Mark Wood,England,Europe,Bowler,13,6,18,43,5,0,0,,,,,85,9,0,1,2,0,0,1,2,0,0,0,0,6,54,349,6.46
+Chirs Woakes,England,Europe,Bowler,11,14,9,,0,10,32,51,4,,,131,9,0,2,0,0,0,2,4,1,1,0,0,10,55,298,5.42
+Scott Edwards,Netherland,Europe,Batter,0,30,78,16,12,68,0,38,17,,,259,9,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Max O'Dowd,Netherland,Europe,Batter,5,16,18,16,6,0,42,5,30,,,138,9,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Bas de Leede,Netherland,Europe,Batter,67,18,2,6,4,17,3,10,12,,,139,9,4,1,2,0,2,2,0,3,2,0,0,16,67,487,7.27
+Vikram Singh,Netherland,Europe,Batter,52,12,2,4,25,3,,,,,,98,9,0,0,0,0,0,0,0,0,0,0,0,0,7,52,7.43
+Teja Nidamanuru,Netherland,Europe,All-Rounder,5,21,20,9,14,,,41,54,,,164,9,0,0,0,0,0,0,0,0,0,0,0,0,,,
+C. Ackermann,Netherland,Europe,Batter,17,69,12,29,10,15,29,0,35,,,216,9,2,0,1,1,0,1,0,0,0,0,0,5,47.2,234,4.96
+P. Van Meekran,Netherland,Europe,Bowler,7,4,0,4,0,0,4,4,3,,,26,9,1,2,2,1,0,4,0,1,1,0,0,12,74.2,447,6.02
+Roelof van der Merwe,Netherland,Europe,Bowler,4,1,29,7,0,,11,0,16,,,68,9,0,2,2,0,0,0,1,0,1,0,0,6,56,311,5.55
+Logan van Beek,Netherland,Europe,Bowler,28,,10,59,0,23,2,2,16,,,140,9,1,0,3,0,4,1,1,2,0,0,0,12,70.5,476,6.75
+Aryan Dutt,Netherland,Europe,Bowler,1,11,23,9,1,9,10,1,5,,,70,9,1,2,0,3,1,1,0,2,0,0,0,10,77.3,426,5.51
+Ryan Klein,Netherland,Europe,Bowler,,8,,,,,,,,,,8,9,0,0,0,0,0,0,0,0,0,0,0,0,10,62,6.2
+Wesley Barresi,Netherland,Europe,Batter,,,,,,41,1,37,4,,,83,9,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Saqib Zulfiqar,Netherland,Europe,All-Rounder,10,,,,,,3,,,,,13,9,0,0,0,0,0,0,1,0,0,0,0,1,5,40,8
+Shariz Ahmad,Netherland,Europe,All-Rounder,,,,,,6,,,,,,6,9,0,0,0,0,0,0,0,0,0,0,0,0,2,13,6.5
+Sybrand Engelbrecht,Netherland,Europe,Batter,,29,19,70,11,35,58,33,45,,,300,9,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Pat Cummins,Australia,Oceania,Bowler,15,22,0,6,12,37,10,12,0,14,0,128,11,0,1,2,2,1,2,2,0,0,3,2,15,89.3,515,5.77
+Steve  Smith,Australia,Oceania,Batter,46,19,0,7,71,18,44,,63,30,4,302,11,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Alex Carey,Australia,Oceania,Batter,0,,,,,,,,,,,0,11,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Josh Inglis,Australia,Oceania,Batter,,5,58,13,14,38,3,0,0,28,0,159,11,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Sean Abbot,Australia,Oceania,Bowler,,,,,,,,,0,,,0,11,0,0,0,0,0,0,0,0,2,0,0,2,10,61,6.1
+Cameron Green,Australia,Oceania,All-Rounder,8,,,,8,,47,,,,,63,11,0,0,0,0,0,0,0,0,0,0,0,0,2,11,5.5
+Josh Hazlewood,Australia,Oceania,Bowler,,2,0,0,0,0,1,0,0,0,0,3,11,3,1,0,1,1,2,2,2,0,2,2,16,93.1,449,4.82
+Travis Head,Australia,Oceania,Batter,,,,,,109,11,0,10,62,137,329,11,0,0,0,0,0,0,0,0,0,2,0,2,21,101,4.81
+Marnus Labuschagne,Australia,Oceania,Batter,27,46,40,8,62,18,71,14,0,18,58,362,11,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Mitch Marsh,Australia,Oceania,Batter,0,7,52,121,9,36,,24,177,0,15,441,11,0,0,0,0,2,0,0,0,0,0,0,2,13,96,7.38
+Glenn Maxwell,Australia,Oceania,All-Rounder,15,3,31,0,106,41,,201,,1,2,400,11,0,2,1,0,0,1,0,1,0,0,1,6,68.3,330,4.83
+Marcus Stonis,Australia,Oceania,All-Rounder,,5,20,21,,,35,6,0,,,87,11,0,0,0,2,0,0,1,0,1,0,0,4,19,143,7.53
+David Warner,Australia,Oceania,Batter,41,13,11,163,104,81,15,18,53,29,7,535,11,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Adam Zampa,Australia,Oceania,Bowler,6,11,0,1,1,0,29,0,0,0,0,48,11,0,1,4,4,4,3,3,1,2,0,1,23,96,515,5.36
+Mitchell Starc,Australia,Oceania,Bowler,28,27,0,2,0,1,10,3,,16,0,87,11,1,2,2,1,1,0,2,1,0,3,3,16,87,528,6.07
+Kane Williamson,New Zealand,Oceania,Batter,,,78,,,,,95,14,69,,256,10,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Trent Boult,New Zealand,Oceania,Bowler,0,0,0,0,0,10,9,0,0,2,,21,10,1,0,2,2,1,3,1,0,3,1,0,14,91,504,5.54
+Mark Chapman,New Zealand,Oceania,Batter,,5,0,25,6,,,39,7,2,,84,10,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Devon Conway,New Zealand,Oceania,Batter,152,32,45,20,0,28,2,35,45,13,,372,10,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Lockie Ferguson,New Zealand,Oceania,Bowler,,0,0,0,1,0,,,0,6,,7,10,0,0,3,3,2,0,0,0,2,0,0,10,54,301,5.57
+Matt Henry,New Zealand,Oceania,Bowler,0,10,0,0,0,9,0,,,,,19,10,3,3,2,1,1,1,0,0,0,0,0,11,44.2,315,7.13
+Tom Latham,New Zealand,Oceania,Batter,0,53,0,68,5,21,4,2,2,0,,155,10,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Daryl Mitchell,New Zealand,Oceania,Batter,,48,89,1,130,54,24,29,43,134,,552,10,0,0,0,0,0,0,0,0,0,0,0,0,1.3,12,9.23
+Jimmy Neesham,New Zealand,Oceania,Bowler,0,,,,,58,0,,,,,58,10,0,0,0,0,0,1,1,0,0,0,0,2,14.3,157,10.98
+Gleen Phillips,New Zealand,Oceania,All-Rounder,0,4,16,71,23,12,60,41,17,41,,285,10,2,0,1,0,0,3,0,0,0,0,0,6,40,233,5.83
+Rachin Ravindra,New Zealand,Oceania,All-Rounder,123,51,9,32,75,116,9,108,42,13,,578,10,1,1,0,1,0,0,0,0,2,0,0,5,65.4,393,6.01
+Mitch Santner,New Zealand,Oceania,All-Rounder,0,36,0,7,1,17,7,26,0,9,,103,10,2,5,1,3,1,2,0,0,2,0,0,16,92.4,449,4.86
+Ish Sodhi,New Zealand,Oceania,All-Rounder,,,,,,,,0,,,,0,10,0,0,0,0,0,0,0,0,0,0,0,0,4,44,11
+Tim Southee,New Zealand,Oceania,Bowler,0,,,,,,7,0,0,9,,16,10,0,0,0,0,0,0,2,1,1,3,0,7,33,256,7.76
+Will Young,New Zealand,Oceania,Batter,0,70,,54,17,32,33,,,,,206,10,0,0,0,0,0,0,0,0,0,0,0,0,,,
